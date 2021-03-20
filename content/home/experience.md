@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Engineer
+    company: ICube AVR Team
+    company_url: 'https://avr.icube.unistra.fr/index.php/Accueil'
+    location: Strasbourg, France
+    date_start: '2020-09-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Accelerate research on medical robotics and physics-based simulation
+        * Technical and experimental support to PhD students
+        * Co-orient two master students
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Master Internship
+    company: ICube AVR Team
+    company_url: 'https://avr.icube.unistra.fr/index.php/Accueil'
+    location: Strasbourg, France
+    date_start: '2020-02-27'
+    date_end: '2020-09-15'
+    description: Research on respiratory motion compensation for robotic needle steering ([thesis](https://hal.inria.fr/hal-02986039/document))
+
+  - title: Computer Vision and Robotics Developer
+    company: SquareMind
+    company_url: 'https://www.linkedin.com/company/squaremind/'
+    location: Paris, France
+    date_start: '2019-05-13'
+    date_end: '2019-09-15'
+    description: Responsible to integrate system-wide solutions for SquareMind robotics and 3D vision platform. 
 ---

@@ -67,7 +67,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/CV.pdf
+  link: media/Perrusi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "phsuruagyperrusi@unistra.fr"
