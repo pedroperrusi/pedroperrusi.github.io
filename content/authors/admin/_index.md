@@ -76,9 +76,9 @@ email: "phsuruagyperrusi@unistra.fr"
 highlight_name: false
 ---
 
-Pedro Perrusi is a medical robotics research engineer at the University of Strasbourg. He is responsible for developing experiments for a novel  robotic needle steering strategy developed in [project Sperry](https://hadrien.courtecuisse.cnrs.fr/home/projects/sperry/). 
+I'm a medical robotics research engineer at the University of Strasbourg. My current responsibilities involve developing experiments for a novel  robotic needle steering strategy developed in [project Sperry](https://hadrien.courtecuisse.cnrs.fr/home/projects/sperry/). 
 <!-- In this project, fast biomechanical simulations are used to account for the needle-tissue interaction during a robot-assisted needle therapy, such as thermo ablation or biopsies. -->
 
-His research is in the crossroads of physics-based simulation and medical robotics supported by the the [ICube](https://icube.unistra.fr/) laboratory, [INRIA MIMESIS](https://mimesis.inria.fr/) team and the [University Hospital of Strasbourg](https://www.ihu-strasbourg.eu/).
+My research is in the crossroads of physics-based simulation and medical robotics supported by the the [ICube](https://icube.unistra.fr/) laboratory, [INRIA MIMESIS](https://mimesis.inria.fr/) team and the [University Hospital of Strasbourg](https://www.ihu-strasbourg.eu/).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -44,7 +44,7 @@ experience:
     date_end: '2020-09-15'
     description: Research on respiratory motion compensation for robotic needle steering ([thesis](https://hal.inria.fr/hal-02986039/document))
 
-  - title: Computer Vision and Robotics Developer
+  - title: Computer Vision and Robotics Internship
     company: SquareMind
     company_url: 'https://www.linkedin.com/company/squaremind/'
     location: Paris, France
