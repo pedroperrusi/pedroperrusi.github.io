@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
 title: Projects
 subtitle: ''
@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Medical Robotics
     tag: Medical Robotics
-  - name: Physics Based Simulation
-    tag: Physics Based Simulation
+  - name: Simulation
+    tag: Simulation
   # - name: Machine Learning
   #   tag: Machine Learning
   - name: Other
