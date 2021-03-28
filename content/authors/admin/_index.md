@@ -13,7 +13,7 @@ organizations:
 - name: ICube AVR 
   url: https://avr.icube.unistra.fr/en/index.php/Main_Page
 - name: ICube MLMS
-  url: https://avr.icube.unistra.fr/en/index.php/Main_Page
+  url: https://mlms.icube.unistra.fr/en/index.php/Presentation
 - name: INRIA MIMESIS
   url: https://mimesis.inria.fr/
 - name: University of Strasbourg
