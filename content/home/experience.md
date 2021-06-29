@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -51,4 +51,4 @@ experience:
     date_start: '2019-05-13'
     date_end: '2019-09-15'
     description: Responsible to integrate system-wide solutions for SquareMind robotics and 3D vision platform. 
----
+--- -->
