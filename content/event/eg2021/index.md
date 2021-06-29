@@ -32,11 +32,15 @@ links:
 - icon: play-circle
   icon_pack: fas
   name: Presentation
-  url: https://www.youtube.com/watch?v=jMKg7BEdPdg
+  url: https://www.youtube.com/watch?v=g5l07gaGDis&
 - icon: file-pdf
   icon_pack: fas
   name: Article
   url: https://hal.inria.fr/hal-03187709/
+- icon: play-circle
+  icon_pack: fas
+  name: Additional Material
+  url: https://www.youtube.com/watch?v=jMKg7BEdPdg
 url_code: ""
 url_pdf: ""
 url_slides: ""
