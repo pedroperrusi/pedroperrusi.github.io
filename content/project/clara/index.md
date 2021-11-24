@@ -2,7 +2,8 @@
 title: CLARA
 summary: Robotic endoscope holder tailored for the brazilian national healthcare system.
 tags:
-- Medical Robotics
+- Robotics
+- Computer Vision
 date: "2015-08-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -38,7 +39,7 @@ url_video: ""
 # slides: example
 ---
 
-CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab [LARA](http://lara.unb.br/) at the University of Brasilia ([UnB](https://www.unb.br/)). The project was requested and founded by the [brazilian ministry of healthcare](https://www.gov.br/saude/pt-br) with the perspective to integrate the country unified healthcare system (SUS) in the future. 
+CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab [LARA](http://lara.unb.br/) at the University of Brasília ([UnB](https://www.unb.br/)). The project was requested and founded by the [Brazilian ministry of healthcare](https://www.gov.br/saude/pt-br) with the perspective to integrate the country unified healthcare system (SUS) in the future. 
 
 Research and development counted with three professors and over 20 master and undergraduate students from 2015 until 2019.
 My personal role was in the image acquisition and computer vision features of the system from 2015 until 2018.
@@ -46,7 +47,7 @@ In 2019, a startup spin-off was created to advance the technology to clinical tr
 For more information on the most recent news be sure to check the [official website](https://clara.laparoscopic.com.br/).
 
 ### Awards
-- Honorable mention in the Science, Technology and Innovation Award for the brazilian healthcare system in 2017.
+- Honorable mention in the Science, Technology and Innovation Award for the Brazilian healthcare system in 2017.
 - Best paper presentation in the XXVI Brazilian Congress on Biomedical Engineering for the work of Fernanda Melo and Mariana Bernardes in 2019.
 - Winner of Johnson & Johnson Latin America Innovation Challenge 2019 as a startup spin-off.
 

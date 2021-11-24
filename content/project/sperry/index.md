@@ -2,8 +2,9 @@
 title: Sperry
 summary: Robot-assisted needle insertion based on inverse finite element simulation.
 tags:
-- Medical Robotics
-- Physics Based Simulation
+- Robotics
+- Simulation
+- Computer Vision
 date: "2020-02-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Medical Robotics
-    tag: Medical Robotics
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: Robotics
+    tag: Robotics
   - name: Simulation
     tag: Simulation
-  # - name: Machine Learning
-  #   tag: Machine Learning
   - name: Other
     tag: Other
 
