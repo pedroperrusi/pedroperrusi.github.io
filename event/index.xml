@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/event/</link><atom:link href="https://pedroperrusi.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Henrique Suruagy Perrusi</copyright><lastBuildDate>Wed, 09 Jun 2021 09:10:00 +0000</lastBuildDate><image><url>https://pedroperrusi.github.io/media/icon_hubb816e71008a41f2d350167189832069_11120_512x512_fill_lanczos_center_2.png</url><title>Recent &amp; Upcoming Talks</title><link>https://pedroperrusi.github.io/event/</link></image><item><title>AUTOMED 2021</title><link>https://pedroperrusi.github.io/talk/automed-2021/</link><pubDate>Wed, 09 Jun 2021 09:10:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/automed-2021/</guid><description>&lt;p>Title: Robotic needle steering in deformable tissues with extreme learning machines&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recent &amp; Upcoming Talks | Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/event/</link><atom:link href="https://pedroperrusi.github.io/event/index.xml" rel="self" type="application/rss+xml"/><description>Recent &amp; Upcoming Talks</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Henrique Suruagy Perrusi</copyright><lastBuildDate>Wed, 09 Jun 2021 09:10:00 +0000</lastBuildDate><image><url>https://pedroperrusi.github.io/media/icon_hubb816e71008a41f2d350167189832069_11120_512x512_fill_lanczos_center_3.png</url><title>Recent &amp; Upcoming Talks</title><link>https://pedroperrusi.github.io/event/</link></image><item><title>AUTOMED 2021</title><link>https://pedroperrusi.github.io/talk/automed-2021/</link><pubDate>Wed, 09 Jun 2021 09:10:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/automed-2021/</guid><description>&lt;p>Title: Robotic needle steering in deformable tissues with extreme learning machines&lt;/p>
 &lt;p>Authors: Pedro Henrique Suruagy Perrusi, Anna Cazzaniga, Paul Baksic, Eleonora Tagliabue, Elena De Momi, Hadrien Courtecuisse&lt;/p>
 &lt;p>Abstract: Control strategies for robotic needle steering in soft tissues must account for complex interactions between the needle and the tissue to achieve accurate needle tip positioning. Recent findings show faster robotic command rate can improve the control stability in realistic scenarios. This study proposes the use of Extreme Learning Machines to provide fast commands for robotic needle steering. A synthetic dataset based on the inverse finite element simulation control framework is used to train the model. Results show the model is capable to infer commands 66% faster than the inverse simulation and reaches acceptable precision even on previously unseen trajectories.&lt;/p>
 &lt;p>Accepted to AUTOMED 2021&lt;/p>
-&lt;p>Open access paper: &lt;a href="https://arxiv.org/pdf/2104.06510">https://arxiv.org/pdf/2104.06510&lt;/a>
-ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>&lt;/p>
-&lt;p>MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/">https://mimesis.inria.fr/&lt;/a>
-NEARLAB webpage: &lt;a href="https://nearlab.polimi.it/">https://nearlab.polimi.it/&lt;/a>
-ALTAIR Robotics webpage: &lt;a href="https://metropolis.scienze.univr.it/">https://metropolis.scienze.univr.it/&lt;/a>&lt;/p>
-&lt;p>Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
+&lt;p>Open access paper: &lt;a href="https://arxiv.org/pdf/2104.06510" target="_blank" rel="noopener">https://arxiv.org/pdf/2104.06510&lt;/a>
+ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil" target="_blank" rel="noopener">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>&lt;/p>
+&lt;p>MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/" target="_blank" rel="noopener">https://mimesis.inria.fr/&lt;/a>
+NEARLAB webpage: &lt;a href="https://nearlab.polimi.it/" target="_blank" rel="noopener">https://nearlab.polimi.it/&lt;/a>
+ALTAIR Robotics webpage: &lt;a href="https://metropolis.scienze.univr.it/" target="_blank" rel="noopener">https://metropolis.scienze.univr.it/&lt;/a>&lt;/p>
+&lt;p>Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/" target="_blank" rel="noopener">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
 &lt;p>Acknowledgement: This work was supported by French National Research
 Agency (ANR) within the project SPERRY ANR-18-CE33-0007 and the
 Investissements d’Avenir program (ANR-11-LABX-0004, Labex CAMI).&lt;/p></description></item><item><title>ICRA 2021 Workshop</title><link>https://pedroperrusi.github.io/talk/icra-2021-workshop/</link><pubDate>Mon, 31 May 2021 09:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/icra-2021-workshop/</guid><description>&lt;p>Title: Learning robotic needle steering from inverse finite element simulations&lt;/p>
 &lt;p>Authors: Pedro Henrique Suruagy Perrusi, Anna Cazzaniga, Paul Baksic, Eleonora Tagliabue, Elena De Momi, Hadrien Courtecuisse&lt;/p>
 &lt;p>Abstract: Tissue motion compensation during robotic needle steering is a challenging research topic. While the deformable non-linear coupling between needle and tissue is captured by simulation-based control strategies, they increase significantly the computational cost of the control. In this work, we rely on machine learning methods to enable autonomous robotic needle steering with very low computation times. We propose to use an Extreme Learning Machine (ELM) to learn an inverse model which accounts for needle-tissue interaction. The ELM trains with synthetic data generated from multiple needle insertions controlled by inverse finite-element simulations. Results indicate the method is able to achieve clinical compatible precision, and it’s robust to previously unseen trajectory-shapes and variable tissue elasticity parameters, while using only a third of the computational time demanded for simulation-based methods.&lt;/p>
 &lt;p>Accepted to ICRA 2021 Workshop on Representing and Manipulating Deformable Objects&lt;/p>
-&lt;p>Open access paper: &lt;a href="https://arxiv.org/pdf/2104.06510">https://arxiv.org/pdf/2104.06510&lt;/a>
-ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>&lt;/p>
-&lt;p>MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/">https://mimesis.inria.fr/&lt;/a>
-NEARLAB webpage: &lt;a href="https://nearlab.polimi.it/">https://nearlab.polimi.it/&lt;/a>
-ALTAIR Robotics webpage: &lt;a href="https://metropolis.scienze.univr.it/">https://metropolis.scienze.univr.it/&lt;/a>&lt;/p>
-&lt;p>Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
+&lt;p>Open access paper: &lt;a href="https://arxiv.org/pdf/2104.06510" target="_blank" rel="noopener">https://arxiv.org/pdf/2104.06510&lt;/a>
+ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil" target="_blank" rel="noopener">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>&lt;/p>
+&lt;p>MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/" target="_blank" rel="noopener">https://mimesis.inria.fr/&lt;/a>
+NEARLAB webpage: &lt;a href="https://nearlab.polimi.it/" target="_blank" rel="noopener">https://nearlab.polimi.it/&lt;/a>
+ALTAIR Robotics webpage: &lt;a href="https://metropolis.scienze.univr.it/" target="_blank" rel="noopener">https://metropolis.scienze.univr.it/&lt;/a>&lt;/p>
+&lt;p>Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/" target="_blank" rel="noopener">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
 &lt;p>Acknowledgement: This work was supported by French National Research
 Agency (ANR) within the project SPERRY ANR-18-CE33-0007 and the
 Investissements d’Avenir program (ANR-11-LABX-0004, Labex CAMI).&lt;/p></description></item><item><title>Eurographics 2021</title><link>https://pedroperrusi.github.io/talk/eurographics-2021/</link><pubDate>Wed, 05 May 2021 15:13:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/eurographics-2021/</guid><description>&lt;p>Title of the article: Interactive Finite Element model of needle insertion and laceration&lt;/p>
@@ -31,10 +31,10 @@ Finite Element meshes. Complex behavior can be simulated in real time such as fr
 and cutting force resulting from interactions of the needle with the tissue. The method is illustrated both in an interactive
 simulation of a needle insertion/cutting and in a robotic needle insertion in liver tissue during the breathing motion.&lt;/p>
 &lt;p>Submitted to Eurographics 2021 – Short Papers&lt;/p>
-&lt;p>Open access to authors' version: &lt;a href="https://hal.inria.fr/hal-03187709/">https://hal.inria.fr/hal-03187709/&lt;/a>
-ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>
-MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/">https://mimesis.inria.fr/&lt;/a>
-Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
+&lt;p>Open access to authors' version: &lt;a href="https://hal.inria.fr/hal-03187709/" target="_blank" rel="noopener">https://hal.inria.fr/hal-03187709/&lt;/a>
+ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil" target="_blank" rel="noopener">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>
+MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/" target="_blank" rel="noopener">https://mimesis.inria.fr/&lt;/a>
+Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/" target="_blank" rel="noopener">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
 &lt;p>Acknowledgement: This work was supported by French National Research
 Agency (ANR) within the project SPERRY ANR-18-CE33-0007 and the
 Investissements d’Avenir program (ANR-11-LABX-0004, Labex CAMI).&lt;/p></description></item></channel></rss>
