@@ -45,4 +45,24 @@ experience:
       * Propose system-wide solutions for SquareMind robotics and 3D vision platform
       * Vision-based control of 7-DoF robotic manipulator ([Franka](https://www.franka.de/))
       * Skills: C++, Python, CUDA, Qt5 OpenCV, ROS
+
+  - title: Engineering Project on MRI Image Segmentation
+    company: Axilum Robotics \& Université de Strasbourg
+    company_url: 'https://www.axilumrobotics.com/en/?noredirect=en-US'
+    location: Strasbourg, France
+    date_start: '2018-10-15'
+    date_end: '2019-05-01'
+    description: |2-
+      * Develop automatic and semi-automatic algorithms for brain and scalp MRI segmentation
+      * Skills: C#, ITK, VTK
+
+  - title: Computer Vision Undergraduate Researcher 
+    company: LARA laboratory, University of Brasilia - Project CLARA 
+    company_url: 'http://lara.unb.br/'
+    location: Brasilia, Brazil
+    date_start: '2015-08-15'
+    date_end: '2017-06-01'
+    description: |2-
+      * Develop surgical instrument tracking tools for a robotic endoscope holder
+      * Skills: C++, Python, OpenCV
 ---
