@@ -76,7 +76,6 @@ email: "phsuruagyperrusi@unistra.fr"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Independent and motivated developer devoted to innovation in healthcare. My experiences range from developing core systems for a medical devices' startup to facilitate the scientific advances on medical robotics. 
 
-Passionate about technology and healthcare, I started my adventure in medical robotics in 2016 as undergraduate of mechatronics engineering in Brazil. In 2018, I had the opportunity to move to France to complete my studies in Biomedical Engineering with a master in robotics and automation. 
-
-Now I look forward to new opportunities and to promote innovation to healthcare.
+I am eager to discuss and engage ambitious and inventive projects involving computer vision, medical imaging artificial intelligence and robotics.
