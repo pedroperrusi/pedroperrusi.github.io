@@ -25,7 +25,8 @@ bio: My research interests include medical robotics, real-time biomechanical sim
 # Interests to show in About widget
 interests:
 - Medical Robotics
-- Medical Simulations
+- Computer Vision
+- Real-time Simulation
 - Artificial Intelligence
 
 # Education to show in About widget

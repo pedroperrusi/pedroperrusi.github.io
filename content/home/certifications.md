@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Certifications'
@@ -26,24 +26,24 @@ item:
   date_end: ""
   date_start: "2020-09-01"
   description: ""
-  organization: Deep Learning.AI
-  organization_url: https://www.deeplearning.ai/
+  organization: Coursera
+  organization_url: https://www.coursera.org/
   title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/4Z2GW247K9XZ
   date_end: ""
   date_start: "2020-09-01"
   description: ""
-  organization: Deep Learning.AI
-  organization_url: https://www.deeplearning.ai/
+  organization: Coursera
+  organization_url: https://www.coursera.org/
   title: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
   url: ""
 - certificate_url: https://coursera.org/share/d254c844068dbb05c5f9df68060a5830
   date_end: ""
   date_start: "2020-09-01"
   description: ""
-  organization: Deep Learning.AI
-  organization_url: https://www.deeplearning.ai/
+  organization: Coursera
+  organization_url: https://www.coursera.org/
   title: Structuring Machine Learning Projects
   url: ""
 ---
