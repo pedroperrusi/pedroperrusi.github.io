@@ -10,7 +10,7 @@ headless: true
 weight: 45
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Hackathon and Awards'
+title: 'Hackathon Awards'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
