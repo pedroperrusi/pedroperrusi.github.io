@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+theme: earth
+day_night: false
+font: 'native'
+font_size: l
 
 # SEO
 
@@ -22,7 +22,6 @@ twitter: ''
 
 email: phsuruagyperrusi@unistra.fr
 address:
-  street: 1 Place de L Hôpital
   city: Strasbourg
   region: Grand-Est
   postcode: '67000'
