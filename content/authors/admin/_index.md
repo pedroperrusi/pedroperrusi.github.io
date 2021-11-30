@@ -71,7 +71,7 @@ social:
   link: media/Perrusi_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "phsuruagyperrusi@unistra.fr"
+email: "pedroperrusi@protonmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
