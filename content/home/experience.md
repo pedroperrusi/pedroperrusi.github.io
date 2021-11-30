@@ -29,9 +29,11 @@ experience:
     date_start: '2020-09-15'
     date_end: '2021-09-15'
     description: |2-
-        * Research on medical robotics and physics-based simulation
+        * Research in the crossroads between medical robotics and physics-based simulation
         * Experiment machine learning approaches to robotic needle insertion
-        * Co-orient master students
+        * Publish preliminary results in international scientific conferences
+        * Co-orient master student in physics-based models for needle steering
+        Some software development tools used were: C++, Python, SOFA, Qt5 and ROS2.
         * Skills: C++, Python, OpenCV, ROS, SOFA
         
 
@@ -42,8 +44,9 @@ experience:
     date_start: '2019-05-13'
     date_end: '2019-09-15'
     description: |2-
-      * Propose system-wide solutions for SquareMind robotics and 3D vision platform
-      * Vision-based control of 7-DoF robotic manipulator ([Franka](https://www.franka.de/))
+      * System integration of deep-learning inference models;
+      * Develop control routines for Franka Emika Panda robotic manipulator;
+      * Multiple RGB-D registration;
       * Skills: C++, Python, CUDA, Qt5 OpenCV, ROS
 
   - title: Engineering Project on MRI Image Segmentation
@@ -53,7 +56,7 @@ experience:
     date_start: '2018-10-15'
     date_end: '2019-05-01'
     description: |2-
-      * Develop automatic and semi-automatic algorithms for brain and scalp MRI segmentation
+      * Develop algorithms for brain and scalp MRI segmentation
       * Skills: C#, ITK, VTK
 
   - title: Computer Vision Undergraduate Researcher 
