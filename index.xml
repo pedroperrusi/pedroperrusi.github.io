@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/</link><atom:link href="https://pedroperrusi.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Pedro H. S. Perrusi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pedro Henrique Suruagy Perrusi</copyright><lastBuildDate>Wed, 09 Jun 2021 09:10:00 +0000</lastBuildDate><image><url>https://pedroperrusi.github.io/media/icon_hubb816e71008a41f2d350167189832069_11120_512x512_fill_lanczos_center_3.png</url><title>Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/</link></image><item><title>AUTOMED 2021</title><link>https://pedroperrusi.github.io/talk/automed-2021/</link><pubDate>Wed, 09 Jun 2021 09:10:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/automed-2021/</guid><description>&lt;p>Title: Robotic needle steering in deformable tissues with extreme learning machines&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/</link><atom:link href="https://pedroperrusi.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Pedro H. S. Perrusi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Pedro Henrique Suruagy Perrusi</copyright><lastBuildDate>Wed, 09 Jun 2021 09:10:00 +0000</lastBuildDate><image><url>https://pedroperrusi.github.io/media/icon_hubb816e71008a41f2d350167189832069_11120_512x512_fill_lanczos_center_3.png</url><title>Pedro H. S. Perrusi</title><link>https://pedroperrusi.github.io/</link></image><item><title>AUTOMED 2021</title><link>https://pedroperrusi.github.io/talk/automed-2021/</link><pubDate>Wed, 09 Jun 2021 09:10:00 +0000</pubDate><guid>https://pedroperrusi.github.io/talk/automed-2021/</guid><description>&lt;p>Title: Robotic needle steering in deformable tissues with extreme learning machines&lt;/p>
 &lt;p>Authors: Pedro Henrique Suruagy Perrusi, Anna Cazzaniga, Paul Baksic, Eleonora Tagliabue, Elena De Momi, Hadrien Courtecuisse&lt;/p>
 &lt;p>Abstract: Control strategies for robotic needle steering in soft tissues must account for complex interactions between the needle and the tissue to achieve accurate needle tip positioning. Recent findings show faster robotic command rate can improve the control stability in realistic scenarios. This study proposes the use of Extreme Learning Machines to provide fast commands for robotic needle steering. A synthetic dataset based on the inverse finite element simulation control framework is used to train the model. Results show the model is capable to infer commands 66% faster than the inverse simulation and reaches acceptable precision even on previously unseen trajectories.&lt;/p>
 &lt;p>Accepted to AUTOMED 2021&lt;/p>
@@ -31,7 +31,7 @@ Finite Element meshes. Complex behavior can be simulated in real time such as fr
 and cutting force resulting from interactions of the needle with the tissue. The method is illustrated both in an interactive
 simulation of a needle insertion/cutting and in a robotic needle insertion in liver tissue during the breathing motion.&lt;/p>
 &lt;p>Submitted to Eurographics 2021 – Short Papers&lt;/p>
-&lt;p>Open access to authors' version: &lt;a href="https://hal.inria.fr/hal-03187709/" target="_blank" rel="noopener">https://hal.inria.fr/hal-03187709/&lt;/a>
+&lt;p>Open access to authors&amp;rsquo; version: &lt;a href="https://hal.inria.fr/hal-03187709/" target="_blank" rel="noopener">https://hal.inria.fr/hal-03187709/&lt;/a>
 ICube AVR Laboratory webpage: &lt;a href="https://avr.icube.unistra.fr/index.php/Accueil" target="_blank" rel="noopener">https://avr.icube.unistra.fr/index.php/Accueil&lt;/a>
 MIMESIS Research team webpage: &lt;a href="https://mimesis.inria.fr/" target="_blank" rel="noopener">https://mimesis.inria.fr/&lt;/a>
 Project webpage: &lt;a href="https://hadrien.courtecuisse.cnrs.fr/" target="_blank" rel="noopener">https://hadrien.courtecuisse.cnrs.fr/&lt;/a>&lt;/p>
@@ -52,7 +52,19 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
 The patient&amp;rsquo;s scalp was segmented using an automatic method based on morphological operations of dilatation and contour extraction.
 In order to segment the brain, a semi-automatic method based on &lt;a href="https://en.wikipedia.org/wiki/Region_growing" target="_blank" rel="noopener">region growing&lt;/a> was implemented and required the user to select some points inside the brain.
 Both the solutions respect the project requirements and were validated by Axilum Robotics and the school tutors.&lt;/p>
-&lt;p>&lt;img src="footer.png" alt="">&lt;/p></description></item><item><title>CLARA</title><link>https://pedroperrusi.github.io/project/clara/</link><pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/project/clara/</guid><description>&lt;p>CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab &lt;a href="http://lara.unb.br/" target="_blank" rel="noopener">LARA&lt;/a> at the University of Brasília (&lt;a href="https://www.unb.br/" target="_blank" rel="noopener">UnB&lt;/a>). The project was requested and founded by the &lt;a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener">Brazilian ministry of healthcare&lt;/a> with the perspective to integrate the country unified healthcare system (SUS) in the future.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/projet-2a/footer_hud843a284aae4891591c6fb0aeb88f73d_103377_1aad3957fc8a9be0f4bce09083021b77.webp 400w,
+/project/projet-2a/footer_hud843a284aae4891591c6fb0aeb88f73d_103377_a6f9487a9add3e0ff7a924fd8f5ea01e.webp 760w,
+/project/projet-2a/footer_hud843a284aae4891591c6fb0aeb88f73d_103377_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://pedroperrusi.github.io/project/projet-2a/footer_hud843a284aae4891591c6fb0aeb88f73d_103377_1aad3957fc8a9be0f4bce09083021b77.webp"
+width="760"
+height="115"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>CLARA</title><link>https://pedroperrusi.github.io/project/clara/</link><pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/project/clara/</guid><description>&lt;p>CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab &lt;a href="http://lara.unb.br/" target="_blank" rel="noopener">LARA&lt;/a> at the University of Brasília (&lt;a href="https://www.unb.br/" target="_blank" rel="noopener">UnB&lt;/a>). The project was requested and founded by the &lt;a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener">Brazilian ministry of healthcare&lt;/a> with the perspective to integrate the country unified healthcare system (SUS) in the future.&lt;/p>
 &lt;p>Research and development counted with three professors and over 20 master and undergraduate students from 2015 until 2019.
 My personal role was in the image acquisition and computer vision features of the system from 2015 until 2018.
 In 2019, a startup spin-off was created to advance the technology to clinical trials and closer to the market.
@@ -68,4 +80,16 @@ For more information on the most recent news be sure to check the &lt;a href="ht
 &lt;li>Melo F.A., Bernardes M.C. (2019) Virtual Reality Simulator for Laparoscopic Procedures Performed with a Robotic Endoscope Holder. XXVI Brazilian Congress on Biomedical Engineering. IFMBE Proceedings, vol 70/1. Springer, Singapore. &lt;a href="https://doi.org/10.1007/978-981-13-2119-1_113" target="_blank" rel="noopener">https://doi.org/10.1007/978-981-13-2119-1_113&lt;/a>&lt;/li>
 &lt;li>Miranda G., Perruci P. H. S., Vergara R.; Bernardes M.C. (2016) Edges Based Surgical Instrument Tracking in Laparoscopic Images. XXV Brazilian Congress on Biomedical Engineering.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="clara_footer.png" alt="">&lt;/p></description></item><item><title/><link>https://pedroperrusi.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/admin/config.yml</guid><description/></item></channel></rss>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/project/clara/clara_footer_hu643036a7a7c0c87e45014d1db1ac02f2_70198_8cf74f38ddecf77b660834bae7c1da32.webp 400w,
+/project/clara/clara_footer_hu643036a7a7c0c87e45014d1db1ac02f2_70198_2a7664f9269bd81b8982352cbd8deb4f.webp 760w,
+/project/clara/clara_footer_hu643036a7a7c0c87e45014d1db1ac02f2_70198_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://pedroperrusi.github.io/project/clara/clara_footer_hu643036a7a7c0c87e45014d1db1ac02f2_70198_8cf74f38ddecf77b660834bae7c1da32.webp"
+width="760"
+height="115"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title/><link>https://pedroperrusi.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/admin/config.yml</guid><description/></item></channel></rss>
