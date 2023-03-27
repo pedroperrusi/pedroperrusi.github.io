@@ -40,65 +40,9 @@ sections:
           design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: card
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: experience
-    content:
-      title: Experience
-      id: experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Engineer
-          company: ICube AVR Team - Project Sperry
-          company_url: 'https://hadrien.courtecuisse.cnrs.fr/home/projects/sperry/'
-          location: Strasbourg, France
-          date_start: '2020-09-15'
-          date_end: '2021-09-15'
-          description: |2-
-              * Research in the crossroads between medical robotics and physics-based simulation
-              * Skills: C++, Python, OpenCV, Qt5, ROS, SOFA
-              
-
-        - title: Computer Vision and Robotics Internship
-          company: SquareMind
-          company_url: 'https://www.linkedin.com/company/squaremind/'
-          location: Paris, France
-          date_start: '2019-05-13'
-          date_end: '2019-09-15'
-          description: |2-
-            * System integration of deep-learning inference models;
-            * Develop control routines for Franka Emika Panda robotic manipulator;
-            * Skills: C++, Python, CUDA, Qt5 OpenCV, ROS
-
-        - title: Engineering Project on MRI Image Segmentation
-          company: Axilum Robotics \& Université de Strasbourg
-          company_url: 'https://www.axilumrobotics.com/en/?noredirect=en-US'
-          location: Strasbourg, France
-          date_start: '2018-10-15'
-          date_end: '2019-05-01'
-          description: |2-
-            * Develop algorithms for brain and scalp MRI segmentation
-            * Skills: C#, ITK, VTK
-
-        - title: Computer Vision Undergraduate Researcher 
-          company: LARA laboratory, University of Brasilia - Project CLARA 
-          company_url: 'http://lara.unb.br/'
-          location: Brasilia, Brazil
-          date_start: '2015-08-15'
-          date_end: '2017-06-01'
-          description: |2-
-            * Develop surgical instrument tracking tools for a robotic endoscope holder
-            * Skills: C++, Python, OpenCV
-    design:
-      columns: '2'
+      flip_alt_rows: true
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
