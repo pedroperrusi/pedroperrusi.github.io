@@ -64,7 +64,16 @@ width="760"
 height="115"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>CLARA</title><link>https://pedroperrusi.github.io/project/clara/</link><pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/project/clara/</guid><description>&lt;p>CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab &lt;a href="http://lara.unb.br/" target="_blank" rel="noopener">LARA&lt;/a> at the University of Brasília (&lt;a href="https://www.unb.br/" target="_blank" rel="noopener">UnB&lt;/a>). The project was requested and founded by the &lt;a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener">Brazilian ministry of healthcare&lt;/a> with the perspective to integrate the country unified healthcare system (SUS) in the future.&lt;/p>
+&lt;/p></description></item><item><title>Hacking Health Camp 2019 - Kick the Cat</title><link>https://pedroperrusi.github.io/project/kick-the-cat/</link><pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/project/kick-the-cat/</guid><description>&lt;p>Kick the Cat is a Serious game to promote physical activities using the &lt;a href="https://www.ncbi.nlm.nih.gov/books/NBK576420/" target="_blank" rel="noopener">6 minutes walk test&lt;/a>.
+A group of passionate volunteers met in Hacking Health Camp Strasbourg to work on the idea proposed by &lt;a href="http://indoor-sante.fr/" target="_blank" rel="noopener">Indoor Santé&lt;/a>.
+During the the weekend, we matured the idea and built a working prototype using Unity 3D, augmented reality and GPS tracking.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/uSwtqjTVtlE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h3 id="awards">Awards&lt;/h3>
+&lt;ul>
+&lt;li>Jensen Award in Hacking Health Camp 2019&lt;/li>
+&lt;/ul></description></item><item><title>CLARA</title><link>https://pedroperrusi.github.io/project/clara/</link><pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate><guid>https://pedroperrusi.github.io/project/clara/</guid><description>&lt;p>CLARA is a robotic endoscope holder for laparoscopy developed at the automation and robotics lab &lt;a href="http://lara.unb.br/" target="_blank" rel="noopener">LARA&lt;/a> at the University of Brasília (&lt;a href="https://www.unb.br/" target="_blank" rel="noopener">UnB&lt;/a>). The project was requested and founded by the &lt;a href="https://www.gov.br/saude/pt-br" target="_blank" rel="noopener">Brazilian ministry of healthcare&lt;/a> with the perspective to integrate the country unified healthcare system (SUS) in the future.&lt;/p>
 &lt;p>Research and development counted with three professors and over 20 master and undergraduate students from 2015 until 2019.
 My personal role was in the image acquisition and computer vision features of the system from 2015 until 2018.
 In 2019, a startup spin-off was created to advance the technology to clinical trials and closer to the market.
