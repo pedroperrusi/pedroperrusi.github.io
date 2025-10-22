@@ -1,0 +1,11 @@
+.git
+.gitmodules
+.github
+public
+resources
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode
+.idea

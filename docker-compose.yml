@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  hugo:
+    build: .
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/site
+      - hugo_cache:/site/resources
+    environment:
+      - HUGO_WATCH=true
+
+volumes:
+  hugo_cache:
