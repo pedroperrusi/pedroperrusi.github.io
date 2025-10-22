@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pedro Perrusi # Website name
-baseurl: 'https://pedroperrusi.github.io/' # Website URL
+baseurl: 'https://pedroperrusi.com/' # Website URL
 copyright: '© {year} Pedro Henrique Suruagy Perrusi' # Footer text, e.g. '© {year} Me'
 
 ############################

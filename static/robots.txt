@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /search/
+
+Sitemap: https://pedroperrusi.com/sitemap.xml
+Sitemap: https://pedroperrusi.com/index.json

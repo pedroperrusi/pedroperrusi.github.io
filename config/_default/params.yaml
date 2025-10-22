@@ -60,6 +60,7 @@ features:
     url: 'https://github.com/pedroperrusi/pedroperrusi.github.io'
     content_dir: content
     branch: main
+    edit_url: 'https://github.com/pedroperrusi/pedroperrusi.github.io/edit/main/content'
   avatar:
     gravatar: true
     shape: circle
